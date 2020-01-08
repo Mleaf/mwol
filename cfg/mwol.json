@@ -1,0 +1,10 @@
+{
+	"ssl": true,
+	"port": 1999,
+	"keyfile": "/usr/share/mwol/ssl/client.key",
+	"encryption": false,
+	"id": "testmwolid",
+	"cafile": "/usr/share/mwol/ssl/ca.crt",
+	"crtfile": "/usr/share/mwol/ssl/client.crt",
+	"hostname": "www.mleaf.org"
+}

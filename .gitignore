@@ -1,0 +1,8 @@
+*.o
+*.cmake
+mwol
+CMakeCache.txt
+/si
+/CMakeFiles
+/src/CMakeFiles
+Makefile
