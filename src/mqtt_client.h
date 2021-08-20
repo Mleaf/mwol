@@ -22,8 +22,8 @@
 #ifndef	_MQTT_CLIENT_H_
 #define	_MQTT_CLIENT_H_
 
-#define GETWAY_MQTT_TOPIC_SUB  "/mwol/%s"
-#define GETWAY_MQTT_TOPIC_PUB  "/mwol/%s"
+#define GETWAY_MQTT_TOPIC_SUB  "/mwol/sub/%s"
+#define GETWAY_MQTT_TOPIC_PUB  "/mwol/pub/%s"
 #define GETWAY_MQTT_CLIENT_ID  "mwol|%s"
 
 /*************************************************************************************************/
